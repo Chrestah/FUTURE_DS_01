@@ -39,4 +39,4 @@ The project was Built entirely in Microsoft Excel using:
     KPI Cards
     Data Cleaning & Transformation
     Interactive Dashboard Design
-    Summary Tables for Product and Regional Analysis
+    Summary Tables for Product and Regional Analysis.
