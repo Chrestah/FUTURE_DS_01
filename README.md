@@ -2,7 +2,7 @@
 This project explores online retail sales data using Microsoft Excel to turn raw transactions into clear business insights.
 The goal was to understand how the business is performing by analyzing revenue trends, top-selling products, high-value categories, and regional performance through an interactive dashboard.
 
-#OVERVIEW
+#OVERVIEW 
 The task was to analyze business sales data to identify:
   •	How is revenue changing over time?
   •	Which products bring in the most sales?
