@@ -18,12 +18,12 @@ Interactive Slicers & Timeline Filters: Allows filtering the dashboard by month,
 #KEY INSIGHTS
 •	Revenue peaked in Q4, with the strongest monthly performance recorded in November 2011 at $113664.00, followed by October at $1003056.56 and September at $939682.63. This shows a clear year-end sales surge.
 •	The lowest full month in 2011 was February, with revenue of $442493.59, while December 2011 closed at $512393.08.
-•	A small number of products drive a large share of revenue. The top-performing products were:
+•	A small number of products drive a large share of revenue. The top-performing products are:
        o	PAPER CRAFT, LITTLE BIRDIE — $168469.60
        o	REGENCY CAKESTAND 3 TIER — $142239.25
        o	WHITE HANGING HEART T-LIGHT HOLDER — $100392.10
 •	Revenue is highly concentrated in the United Kingdom, which generated $7244495.32 out of the total $8741417.87, making it the dominant market by a wide margin.
-•	Among international markets, the strongest contributors were:
+•	Among international markets, the strongest contributors are:
        o	Netherlands — $283889.34
        o	EIRE — $261888.12
        o	Germany — $205381.15
