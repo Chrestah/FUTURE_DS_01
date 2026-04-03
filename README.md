@@ -4,9 +4,13 @@ The goal was to understand how the business is performing by analyzing revenue t
 
 #OVERVIEW 
 The task was to analyze business sales data to identify:
+
   •	How is revenue changing over time?
+  
   •	Which products bring in the most sales?
+  
   •	Which categories create the most value?
+  
   •	Which countries or regions perform best?
 
 #DASHBOARD FEATURES
