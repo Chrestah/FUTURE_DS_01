@@ -38,15 +38,20 @@ Interactive Slicers & Timeline Filters: Allows filtering the dashboard by month,
        o	WHITE HANGING HEART T-LIGHT HOLDER — $100392.10
        
 •	Revenue is highly concentrated in the United Kingdom, which generated $7244495.32 out of the total $8741417.87, making it the dominant market by a wide margin.
+
 •	Among international markets, the strongest contributors are:
+
        o	Netherlands — $283889.34
        o	EIRE — $261888.12
        o	Germany — $205381.15
        o	France — $183987.94
+       
 •	The business processed 391057 transactions, sold 5140148 units, and achieved an average order value of $22.35, indicating strong transaction volume supported by a broad product mix.
 
 #TOOLS USED
+
 The project was Built entirely in Microsoft Excel using:
+
     Pivot Tables
     Pivot Charts
     Slicers
