@@ -1,9 +1,9 @@
-#ONLINE RETAIL SALES DASHBOARD
+### ONLINE RETAIL SALES DASHBOARD
 
 This project explores online retail sales data using Microsoft Excel to turn raw transactions into clear business insights.
 The goal was to understand how the business is performing by analyzing revenue trends, top-selling products, high-value categories, and regional performance through an interactive dashboard.
 
-#OVERVIEW 
+### OVERVIEW 
 The task was to analyze business sales data to identify:
 
   •	How is revenue changing over time?
@@ -14,7 +14,7 @@ The task was to analyze business sales data to identify:
   
   •	Which countries or regions perform best?
 
-#DASHBOARD FEATURES
+### DASHBOARD FEATURES
 
 Monthly Revenue Trend Line Chart: Displays revenue performance over time, highlighting peaks and dips.
 
@@ -23,7 +23,7 @@ Top Products Bar Chart:  Shows the TOP 10 by highest revenue generating products
 KPI Cards  Summarizes key metrics: total revenue, total units sold, number of transactions, and average order value.
 Interactive Slicers & Timeline Filters: Allows filtering the dashboard by month, year.
 
-#KEY INSIGHTS
+#### KEY INSIGHTS
 
 •	Revenue peaked in Q4, with the strongest monthly performance recorded in November 2011 at $113664.00, followed by October at $1003056.56 and September at $939682.63. This shows a clear year-end sales surge.
 
@@ -48,7 +48,7 @@ Interactive Slicers & Timeline Filters: Allows filtering the dashboard by month,
        
 •	The business processed 391057 transactions, sold 5140148 units, and achieved an average order value of $22.35, indicating strong transaction volume supported by a broad product mix.
 
-#TOOLS USED
+### TOOLS USED
 
 The project was Built entirely in Microsoft Excel using:
 
